@@ -168,21 +168,21 @@ export default function Login() {
                 <span className="font-medium text-green-600">
                   SuperAdmin Email:
                 </span>{" "}
-                sajalsuperadmin@gmail.com
+                shaktiPsuperadmin@gmail.com
               </div>
               <div>
                 <span className="font-medium text-blue-600">Admin Email:</span>{" "}
-                sajaladmin@gmail.com
+                shaktiPadmin@gmail.com
               </div>
               <div>
                 <span className="font-medium text-purple-600">
                   Verifier Email:
                 </span>{" "}
-                sajalverifier@gmail.com
+                shaktiPverifier@gmail.com
               </div>
               <div>
                 <span className="font-medium text-red-600">Password:</span>{" "}
-                sajal
+                shaktip
               </div>
             </div>
           </div>

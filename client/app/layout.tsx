@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Credit Sea - Sajal Namdeo",
-  description: "Made by Sajal Namdeo",
+  title: "Credit Sea - Shakti Priya",
+  description: "Made by Shakti Priya",
 };
 
 export default function RootLayout({
